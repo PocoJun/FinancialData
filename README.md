@@ -19,10 +19,15 @@ pip install requests: request from Internet
 pip install html5lib or pip install lxml
 
 https://projects.fivethirtyeight.com/2016-election-forecast/national-polls/
+
 https://www.worldometers.info/coronavirus/coronavirus-cases/
+
 https://www.marketindex.com.au/asx200
+
 https://disasterphilanthropy.org/disaster/2019-australian-wildfires/
+
 https://finance.yahoo.com/news/presidential-election-affect-stock-market-185001861.html
+
 https://www.kaggle.com/abdullahmu/big-five-stocks#big_five_stocks.csv
       
 Corona Virus Dataset: 
